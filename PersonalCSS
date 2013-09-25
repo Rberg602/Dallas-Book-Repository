@@ -1,0 +1,12 @@
+h3{
+	margin: 0 -50px 0 -50px;
+	background-color: gray;
+	color: white;
+	text-align: center;
+	font-size:xx-large
+}
+
+p{
+	
+	color:white
+}
